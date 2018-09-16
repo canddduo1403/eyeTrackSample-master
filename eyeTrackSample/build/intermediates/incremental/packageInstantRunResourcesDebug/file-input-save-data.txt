@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Sun May 14 20:05:33 ICT 2017
+2.base=C\:\\Users\\BEER\\Desktop\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\BEER\\Desktop\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\button1.wav
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\BEER\\Desktop\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\BEER\\Desktop\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=C\:\\Users\\BEER\\Desktop\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+4.base=C\:\\Users\\BEER\\Desktop\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\BEER\\Desktop\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\face_detect_surface_view.xml
+7.set=ANDROID_RESOURCE
+count=11
+0.file=C\:\\Users\\BEER\\Desktop\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\beep.mp3
+5.base=C\:\\Users\\BEER\\Desktop\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\BEER\\Desktop\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\haarcascade_righteye_2splits.xml
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\BEER\\Desktop\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\BEER\\Desktop\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\icon.png
+9.set=ANDROID_RESOURCE
+9.file=C\:\\Users\\BEER\\Desktop\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\haarcascade_lefteye_2splits.xml
+10.base=C\:\\Users\\BEER\\Desktop\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\BEER\\Desktop\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\BEER\\Desktop\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\lbpcascade_frontalface.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\BEER\\Desktop\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\BEER\\Desktop\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\BEER\\Desktop\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\haarcascade_eye_tree_eyeglasses.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\BEER\\Desktop\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\res\\resources-debug.ap_
+9.base=C\:\\Users\\BEER\\Desktop\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\BEER\\Desktop\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\haarcascade_eye.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

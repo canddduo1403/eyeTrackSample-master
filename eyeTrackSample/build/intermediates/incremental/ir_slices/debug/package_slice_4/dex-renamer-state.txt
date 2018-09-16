@@ -1,0 +1,4 @@
+#Sun Sep 16 19:08:33 ICT 2018
+base.0=C\:\\Users\\can_c\\Downloads\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex

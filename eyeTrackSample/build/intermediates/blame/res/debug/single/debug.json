@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\can_c\\Downloads\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\res\\merged\\debug\\raw_button1.wav.flat",
+        "source": "C:\\Users\\can_c\\Downloads\\eyeTrackSample-master\\eyeTrackSample\\src\\main\\res\\raw\\button1.wav"
+    },
+    {
+        "merged": "C:\\Users\\can_c\\Downloads\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\res\\merged\\debug\\raw_beep.mp3.flat",
+        "source": "C:\\Users\\can_c\\Downloads\\eyeTrackSample-master\\eyeTrackSample\\src\\main\\res\\raw\\beep.mp3"
+    },
+    {
+        "merged": "C:\\Users\\can_c\\Downloads\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\res\\merged\\debug\\layout_face_detect_surface_view.xml.flat",
+        "source": "C:\\Users\\can_c\\Downloads\\eyeTrackSample-master\\eyeTrackSample\\src\\main\\res\\layout\\face_detect_surface_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\can_c\\Downloads\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\res\\merged\\debug\\raw_haarcascade_eye_tree_eyeglasses.xml.flat",
+        "source": "C:\\Users\\can_c\\Downloads\\eyeTrackSample-master\\eyeTrackSample\\src\\main\\res\\raw\\haarcascade_eye_tree_eyeglasses.xml"
+    },
+    {
+        "merged": "C:\\Users\\can_c\\Downloads\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\res\\merged\\debug\\raw_haarcascade_eye.xml.flat",
+        "source": "C:\\Users\\can_c\\Downloads\\eyeTrackSample-master\\eyeTrackSample\\src\\main\\res\\raw\\haarcascade_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\can_c\\Downloads\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "C:\\Users\\can_c\\Downloads\\eyeTrackSample-master\\eyeTrackSample\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\can_c\\Downloads\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\res\\merged\\debug\\raw_haarcascade_lefteye_2splits.xml.flat",
+        "source": "C:\\Users\\can_c\\Downloads\\eyeTrackSample-master\\eyeTrackSample\\src\\main\\res\\raw\\haarcascade_lefteye_2splits.xml"
+    },
+    {
+        "merged": "C:\\Users\\can_c\\Downloads\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\res\\merged\\debug\\raw_lbpcascade_frontalface.xml.flat",
+        "source": "C:\\Users\\can_c\\Downloads\\eyeTrackSample-master\\eyeTrackSample\\src\\main\\res\\raw\\lbpcascade_frontalface.xml"
+    },
+    {
+        "merged": "C:\\Users\\can_c\\Downloads\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\res\\merged\\debug\\raw_haarcascade_righteye_2splits.xml.flat",
+        "source": "C:\\Users\\can_c\\Downloads\\eyeTrackSample-master\\eyeTrackSample\\src\\main\\res\\raw\\haarcascade_righteye_2splits.xml"
+    }
+]
