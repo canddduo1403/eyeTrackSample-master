@@ -1,0 +1,7 @@
+#Sun May 14 20:06:01 ICT 2017
+base.0=C\:\\Users\\BEER\\Desktop\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b4ab32e45f0376e0da59c765258f3d4fbfd15211
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\BEER\\Desktop\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_bafc88dccbc85874f111b21bd1b81f1ca6cd98f9\\classes.dex
+base.1=C\:\\Users\\BEER\\Desktop\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_bafc88dccbc85874f111b21bd1b81f1ca6cd98f9
+file.0=C\:\\Users\\BEER\\Desktop\\eyeTrackSample-master\\eyeTrackSample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b4ab32e45f0376e0da59c765258f3d4fbfd15211\\classes.dex
